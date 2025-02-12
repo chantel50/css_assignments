@@ -1,0 +1,55 @@
+body{
+    background-color: #7f90c7;
+    border: 10px;
+}
+
+.container{
+    background-color: white;
+    border-radius: 8px;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    transition: ;
+    margin: auto;
+    
+}
+.badge{
+    background-color: #ce9c05;
+    color: #000;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+}
+
+.watch-image{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.content{
+    background-color: white;
+    height: auto;
+    margin-top: 10px;
+}
+
+.content h1{
+    font-size: 1.5em;
+    margin: 15px;
+}
+
+.content h1 span{
+    font-size: 1em;
+    font-weight: lighter;
+}
+
+.content h1 p{
+    color: #666;
+    font-size: 0.9em;
+    margin-top: 10px;
+}
